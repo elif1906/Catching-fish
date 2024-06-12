@@ -51,7 +51,6 @@ Catching Fish is a real-life interactive game that uses hand detection powered b
 - Points are awarded for each fish caught.
 - Avoid obstacles and catch as many fish as possible to achieve a high score.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 For more details, visit the [GitHub repository](https://github.com/elif1906/Catching-fish).
